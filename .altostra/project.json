@@ -1,0 +1,21 @@
+{
+  "id": "checkup-zl30o3z",
+  "name": "checkup",
+  "created": "2022-07-26T17:51:34.113Z",
+  "description": "",
+  "blueprints": [
+    {
+      "version": "2019-10-24",
+      "connections": {},
+      "resources": {},
+      "metadata": {
+        "designer": {
+          "resourcePositions": {}
+        }
+      },
+      "id": "checkup-zl20ojb",
+      "name": "checkup"
+    }
+  ],
+  "type": "altostra"
+}
